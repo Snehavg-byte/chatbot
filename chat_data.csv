@@ -1,0 +1,121 @@
+text,label
+"hello",greeting
+"hi",greeting
+"hey",greeting
+"good morning",greeting
+"good evening",greeting
+"howdy",greeting
+"hi there",greeting
+"what's up",greeting
+"yo",greeting
+"nice to meet you",greeting
+
+"goodbye",goodbye
+"see you",goodbye
+"bye",goodbye
+"catch you later",goodbye
+"talk to you later",goodbye
+"farewell",goodbye
+"see ya",goodbye
+"take care",goodbye
+"have a good day",goodbye
+"later",goodbye
+
+"what is the weather today",weather_query
+"is it going to rain tomorrow",weather_query
+"how is the weather today",weather_query
+"do I need an umbrella today",weather_query
+"is it sunny outside",weather_query
+"what's the forecast for today",weather_query
+"tell me today's weather",weather_query
+"weather update please",weather_query
+"is it cold outside",weather_query
+"will it snow today",weather_query
+
+"book me a flight to Paris",book_flight
+"i want to book a ticket",book_flight
+"can you book a flight",book_flight
+"book a flight to New York",book_flight
+"i need a flight to London",book_flight
+"help me book a ticket",book_flight
+"i want to travel next week",book_flight
+"flight booking please",book_flight
+"i need to catch a plane",book_flight
+"book flight for tomorrow",book_flight
+
+"cancel my flight",cancel_ticket
+"how do i cancel my ticket",cancel_ticket
+"i need to cancel my booking",cancel_ticket
+"cancel the reservation",cancel_ticket
+"can you cancel my ticket",cancel_ticket
+"i want to cancel my flight",cancel_ticket
+"flight cancellation help",cancel_ticket
+"i made a mistake in booking",cancel_ticket
+"change or cancel my flight",cancel_ticket
+"cancel flight ASAP",cancel_ticket
+
+"tell me a joke",smalltalk
+"how are you",smalltalk
+"what can you do",smalltalk
+"what's up",smalltalk
+"say something funny",smalltalk
+"do you like movies",smalltalk
+"how’s your day",smalltalk
+"you’re smart",smalltalk
+"just chatting",smalltalk
+"talk to me",smalltalk
+
+"what services do you offer",question
+"what can you do",question
+"how can you help me",question
+"what’s your function",question
+"who made you",question
+"tell me about yourself",question
+"can you answer questions",question
+"what are your skills",question
+"explain what you do",question
+"are you a chatbot",question
+
+"my internet is not working",internet_issue
+"my connection is very slow",internet_issue
+"the website is down",internet_issue
+"network is unstable",internet_issue
+"i can't browse the web",internet_issue
+"internet keeps disconnecting",internet_issue
+"no internet access",internet_issue
+"pages are not loading",internet_issue
+"can't connect to wifi",internet_issue
+"slow internet speed",internet_issue
+
+"i forgot my account password",account_recovery
+"how do i reset my password",account_recovery
+"i can't log into my account",account_recovery
+"reset my account",account_recovery
+"help me recover my login",account_recovery
+"forgot login details",account_recovery
+"need password reset",account_recovery
+"can't access my profile",account_recovery
+"account locked",account_recovery
+"i lost my credentials",account_recovery
+
+"the app keeps crashing on startup",app_crash
+"the app won’t open after update",app_crash
+"app crashes instantly",app_crash
+"it freezes when i open the app",app_crash
+"app shuts down suddenly",app_crash
+"problem with app loading",app_crash
+"getting black screen on app",app_crash
+"app is unresponsive",app_crash
+"nothing happens when i tap app",app_crash
+"error when launching app",app_crash
+
+"i want to change my billing address",billing_issue
+"i need help with my invoice",billing_issue
+"why is my bill so high this month?",billing_issue
+"i don’t recognize this charge",billing_issue
+"billing info is incorrect",billing_issue
+"overcharged on my last bill",billing_issue
+"wrong payment deducted",billing_issue
+"my bill is missing",billing_issue
+"payment failed",billing_issue
+"can't view my bill",billing_issue
